@@ -10,6 +10,7 @@ Note: Ensure that all the above components are properly installed on your comput
 (Node.js, MongoDB should be installed and MongoDB service should be running)
 
 Step 1: Create a Main Project folder
+------------------------------------
 mkdir 1_Helloworld_App
 cd 1_Helloworld_App
 
