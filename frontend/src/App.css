@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #101820, #1f4068);
+  color: white;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+h1 {
+  color: #00ff99;
+  font-size: 48px;
+}
+
+h2 {
+  color: #ffd700;
+}
+
+p {
+  font-size: 24px;
+  background: white;
+  color: #111;
+  padding: 15px 30px;
+  border-radius: 10px;
+}
