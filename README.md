@@ -7,18 +7,17 @@ E --> Express Js
 R --> React JS
 N --> Node Js
 
-----------------------------------------------------------------------------------
 Note: Ensure that all the above components are properly installed in your computer. 
 ------------------------------------------------------------------------------------
 
 Step 1: Create a Main Project folder
-
+-----------------------------------
 mkdir 1_Helloworld_App
 
 cd 1_Helloworld_App
 
 Step 2: Create backend and Frontend folder:
-
+--------------------------------------------
 Create two folders:
 
 backend --> Node js + Express js + MongoDB code
@@ -29,14 +28,14 @@ mkdir backend frontend
 Backend Setup:
 -----------------
 Step 3: Go inside backend folder
-
+--------------------------------
 cd backend
 
 we are going to create backend server first.
 
 
 Step 4: Initialize the Noje.js Project
-
+---------------------------------------
 npm init -y
 
 -y --> yes to all default settings
