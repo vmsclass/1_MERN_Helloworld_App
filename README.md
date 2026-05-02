@@ -7,7 +7,9 @@ E --> Express Js
 R --> React JS
 N --> Node Js
 
+----------------------------------------------------------------------------------
 Note: Ensure that all the above components are properly installed in your computer. 
+------------------------------------------------------------------------------------
 
 Step 1: Create a Main Project folder
 
