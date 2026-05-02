@@ -44,26 +44,39 @@ npm install express mongoose cors dotenv
 Step 6: Install Nodemon
 
 npm install nodemon --save-dev
+
 👉 Nodemon automatically restarts the server when changes are made.
+
 Step 7: Create backend files:
+
 Create the following files:
+
 server.js
+
 .env
+
 Update the .env file:
+
 PORT=5000
+
 MONGO_URI=mongodb://127.0.0.1:27017/hello_mern
+
 Update package.json (scripts section):
+
 "scripts": {
   "start": "node server.js",
   "dev": "nodemon server.js"
 }
+
 👉 npm run dev will start the server using nodemon
+
 Update server.js
 (Add your backend code here which includes:)
 •	Express setup 
 •	MongoDB connection 
 •	API route (/api/hello) 
 •	Server start 
+
 Step 8: Run Backend
 
 npm run dev
